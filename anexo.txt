@@ -1,0 +1,2 @@
+O comando git branch permite criar, listar, renomear e excluir ramificações.
+Acho que tô pegando o jeito.
